@@ -1,0 +1,9 @@
+{
+  "name": "Minecraft",
+  "description": "Minecraft Theme from https://downloads.khinsider.com/game-soundtracks/album/minecraft",
+  "author": "Jmotz85",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
