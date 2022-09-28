@@ -1,7 +1,7 @@
 {
-  "name": "menu_music.mp3",
-  "description": "Minecraft Theme from https://downloads.khinsider.com/game-soundtracks/album/minecraft",
-  "author": "Jmotz85",
+  "name": "Minecraft Theme",
+  "description": "Minecraft Theme Music",
+  "author": "jmotz85",
   "version": "v1.0",
   "manifest_version": 1,
   "music": true,
